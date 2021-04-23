@@ -1,5 +1,5 @@
 # SecresBrowser
-A web browser made in JavaFX (and my first JavaFX application). This project is largely for me to understand JavaFX coming from a Swing background.
+A web browser made in JavaFX. The application supports an MDI (multiple tabs) with the default search engine as Google. It also supports the "back," "forward," and "reload" commands. No information is saved, protecting your privacy at your command.
 
 How the application looks:
 <kbd>
